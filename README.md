@@ -95,3 +95,7 @@ For detailed assignment specifications, refer to: `_251_CO2003___DSA__Assignment
 - The compiled executable file (`main`) is included in the repository
 - Header files are located in the `src/` directory for easy integration
 - Utility functions in `utils.h` provide support functions for vector operations
+
+## 📄 License
+
+This project is created for educational purposes as part of a university assignment at HCMUT.
